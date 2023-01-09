@@ -1,1 +1,1 @@
-m1.txt-line 1:inserted line on local master branch.
+m1.txt-line 1:This line is modified on remote GitHub repository's master branch.
