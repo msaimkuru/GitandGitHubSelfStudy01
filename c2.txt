@@ -1,2 +1,3 @@
 c2.txt-line 1:inserted line on local master branch.
 c2.txt-line 2:inserted line on local master branch.
+c2.txt-line 3:inserted line on remote master branch.
